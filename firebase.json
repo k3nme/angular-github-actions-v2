@@ -1,10 +1,6 @@
 {
   "hosting": {
-    "public": "dist/enterprise-app-webpack-wf",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "public": "dist/enterprise-app-webpack-wf/",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
 }
