@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/enterprise-app-webpack-wf",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
